@@ -14,7 +14,7 @@
    viewBox="0 0 91 61"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="drawring 02.svg">
   <defs
      id="defs3713" />
@@ -26,12 +26,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="254.9028"
-     inkscape:cy="99.682583"
+     inkscape:cx="195.83757"
+     inkscape:cy="121.29634"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
+     inkscape:window-width="1024"
      inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -43,13 +43,14 @@
      inkscape:object-paths="true"
      inkscape:snap-page="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
      inkscape:object-nodes="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-paths="false"
      inkscape:snap-center="false"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:snap-nodes="true">
     <sodipodi:guide
        position="1.0583333,58"
        orientation="0,1"
@@ -115,6 +116,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,6)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:3;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.1498351"
+       y="7.2702436"
+       id="text958"><tspan
+         sodipodi:role="line"
+         id="tspan956"
+         x="4.1498351"
+         y="7.2702436"
+         style="stroke-width:0.26458332">Luke Brierley</tspan></text>
+    <rect
+       style="opacity:1;fill:#323232;fill-opacity:1;stroke:#da02f2;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168"
+       width="91"
+       height="5.388154"
+       x="-5.5775234e-007"
+       y="8.0003891" />
     <rect
        id="rect3743"
        width="91.132294"
@@ -122,6 +141,13 @@
        x="-0.13229166"
        y="24.5"
        style="stroke-width:3.9;fill:#ffffff;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1;stroke-linejoin:round" />
+    <rect
+       style="opacity:1;fill:#323232;fill-opacity:1;stroke:#da02f2;stroke-width:0;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168-9"
+       width="91"
+       height="5.388154"
+       x="0.34625927"
+       y="23.499252" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -159,59 +185,99 @@
          style="stroke-width:0.10060375" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.66930676px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19173265"
-       x="2.9837799"
-       y="40.155247"
+       style="font-style:normal;font-weight:normal;font-size:6.5836668px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19173265"
+       x="5.567914"
+       y="46.475327"
        id="text870"
-       transform="scale(0.80289467,1.2454934)"><tspan
+       transform="scale(0.93694272,1.0673011)"><tspan
          sodipodi:role="line"
          id="tspan868"
-         x="2.9837799"
-         y="40.155247"
+         x="5.567914"
+         y="46.475327"
          style="stroke-width:0.19173265">Have a great day!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:3;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1.8920573"
-       y="5.57691"
-       id="text958"><tspan
-         sodipodi:role="line"
-         id="tspan956"
-         x="1.8920573"
-         y="5.57691"
-         style="stroke-width:0.26458332">Luke Brierley</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:3;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2.7588634"
-       y="10.755299"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:3;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.0166416"
+       y="12.448632"
        id="text962"><tspan
          sodipodi:role="line"
-         id="tspan960"
-         x="2.7588634"
-         y="10.755299"
-         style="font-size:5.64444447px;stroke-width:0.26458332">contact</tspan></text>
+         x="5.0166416"
+         y="12.448632"
+         style="font-size:5.64444447px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3377">contact</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:3;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2.9924409"
-       y="15.603456"
+       x="5.2502189"
+       y="17.296787"
        id="text966"><tspan
          sodipodi:role="line"
-         x="2.9924409"
-         y="15.603456"
+         x="5.2502189"
+         y="17.296787"
          style="font-size:4.23333311px;stroke-width:0.26458332"
          id="tspan968">email: ldbrierley@gmail.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:3;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2.8974411"
-       y="20.43395"
+       x="5.1552191"
+       y="22.127281"
        id="text966-8"><tspan
          sodipodi:role="line"
-         x="2.8974411"
-         y="20.43395"
+         x="5.1552191"
+         y="22.127281"
          style="font-size:4.23333311px;stroke-width:0.26458332"
-         id="tspan968-4">phone: 098876112399999888</tspan></text>
+         id="tspan968-4">phone: 07979 948996</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4.9463415"
+       y="28.294109"
+       id="text3365"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3367"
+         x="4.9463415"
+         y="28.294109">code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5.0714207"
+       y="33.111462"
+       id="text3369"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3371"
+         x="5.0714207"
+         y="33.111462">github: github.com/ldbrierley</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="68.050385"
+       y="13.690822"
+       id="text3381"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3383"
+         x="68.050385"
+         y="13.690822" /><tspan
+         sodipodi:role="line"
+         x="68.050385"
+         y="27.801933"
+         id="tspan3385" /><tspan
+         sodipodi:role="line"
+         x="68.050385"
+         y="41.913044"
+         id="tspan3387" /><tspan
+         sodipodi:role="line"
+         x="68.050385"
+         y="56.024155"
+         id="tspan3389" /></text>
+    <path
+       style="fill:#323232;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90.999998,-6 -11.774187,0 c 0,0 5.45987,23.054419 0.598685,34.887406 C 74.963311,40.720394 80.423181,55 80.423181,55 l 10.576817,-3e-6 z"
+       id="path4185"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cczccc" />
   </g>
 </svg>
