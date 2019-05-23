@@ -16,7 +16,10 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="drawring 02.svg">
+   sodipodi:docname="drawring 02.svg"
+   inkscape:export-filename="C:\Users\TechResot\Documents\GitHub\Business_cards\drawring 02.png"
+   inkscape:export-xdpi="366.21298"
+   inkscape:export-ydpi="366.21298">
   <defs
      id="defs3713">
     <linearGradient
@@ -48,16 +51,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="18.391399"
-     inkscape:cy="41.983995"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="139.59743"
+     inkscape:cy="113.00942"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="840"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -72,7 +75,7 @@
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-paths="false"
      inkscape:snap-center="false"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-nodes="true">
     <sodipodi:guide
        position="1.0583333,58"
@@ -143,9 +146,9 @@
        id="rect49"
        width="91"
        height="60.999996"
-       x="0"
-       y="-6"
-       style="stroke-width:0.26458332;fill:#ffffff" />
+       x="-0.077494659"
+       y="-6.9033442"
+       style="fill:#ffffff;stroke-width:0.26458332" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -169,8 +172,8 @@
        id="rect4168-9"
        width="91"
        height="5.388154"
-       x="0.14669803"
-       y="25.694426" />
+       x="-0.22747931"
+       y="27.004045" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -232,46 +235,35 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="5.0506577"
-       y="19.491961"
-       id="text966"><tspan
-         sodipodi:role="line"
-         x="5.0506577"
-         y="19.491961"
-         style="font-size:4.23333311px;line-height:3;stroke-width:0.26458332"
-         id="tspan968">email: ldbrierley@gmail.com</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="4.955658"
-       y="24.322454"
+       y="25.2579"
        id="text966-8"><tspan
          sodipodi:role="line"
          x="4.955658"
-         y="24.322454"
+         y="25.2579"
          style="font-size:4.23333311px;line-height:3;stroke-width:0.26458332"
          id="tspan968-4">phone: 07979 948996</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4.7467804"
-       y="30.489283"
+       x="4.3726029"
+       y="31.798901"
        id="text3365"><tspan
          sodipodi:role="line"
          id="tspan3367"
-         x="4.7467804"
-         y="30.489283"
+         x="4.3726029"
+         y="31.798901"
          style="font-size:5.64444399px;line-height:1.25">code</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4.8718596"
-       y="35.306637"
+       x="5.0268488"
+       y="36.62566"
        id="text3369"><tspan
          sodipodi:role="line"
          id="tspan3371"
-         x="4.8718596"
-         y="35.306637"
+         x="5.0268488"
+         y="36.62566"
          style="font-size:4.23333311px;line-height:1.25">github: github.com/ldbrierley</tspan></text>
     <text
        xml:space="preserve"
@@ -305,5 +297,16 @@
        id="path4185"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cczccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="5.0506577"
+       y="19.491961"
+       id="text966"><tspan
+         sodipodi:role="line"
+         x="5.0506577"
+         y="19.491961"
+         style="font-size:4.23333311px;line-height:3;stroke-width:0.26458332"
+         id="tspan968">email: ldbrierley@gmail.com</tspan></text>
   </g>
 </svg>
